@@ -10,3 +10,8 @@
 
 working on Windows 7 SP1 with update kb4457144 installed and python 3.8
 and obviously on newer windows versions with latest python versions
+
+
+
+i'm lazy and won't do a markdown readme for these few points
+~Relepega
